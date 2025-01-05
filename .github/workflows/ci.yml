@@ -1,0 +1,40 @@
+name: Auto Commit Code Changes
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push to main branch
+  pull_request:
+    branches:
+      - main  # Trigger on pull request to main branch
+  schedule:
+    - cron: '0 0 * * *'  # Schedule this action to run every day at midnight (UTC)
+    - cron: '0 1 * * *'
+jobs:
+  commit-changes:
+    runs-on: ubuntu-24.04
+
+    steps:
+      # Step 1: Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Git with your user name and email for commits
+      - name: Set up Git
+        run: |
+          git config --global user.name "Saikat-dot678"
+          git config --global user.email "saikatkhan2005saikat@gmail.com"
+
+      # Step 3: Create or modify a file (e.g., README.md)
+      - name: Update README with timestamp
+        run: |
+          echo "Last updated: $(date)" >> README.md
+          
+      # Step 4: Commit changes if there are modifications
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "Update README with current timestamp"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token allows pushing changes
