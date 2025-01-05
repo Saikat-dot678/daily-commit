@@ -37,4 +37,4 @@ jobs:
           git commit -m "Update README with current timestamp"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token allows pushing changes
+          GITHUB_TOKEN: ${{ secrets.COM_TOKEN }}  # This token allows pushing changes
