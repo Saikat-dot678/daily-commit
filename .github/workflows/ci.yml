@@ -10,6 +10,8 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Schedule this action to run every day at midnight (UTC)
     - cron: '0 1 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 12 * * *'
 jobs:
   commit-changes:
     runs-on: ubuntu-24.04
