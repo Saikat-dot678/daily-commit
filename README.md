@@ -1,590 +1,99 @@
-# daily-commitLast updated: Mon Jan  6 08:41:13 UTC 2025
-Last updated: Mon Jan  6 08:43:59 UTC 2025
-Last updated: Mon Jan  6 10:08:18 UTC 2025
-Last updated: Mon Jan  6 12:34:31 UTC 2025
-Last updated: Tue Jan  7 00:59:00 UTC 2025
-Last updated: Tue Jan  7 02:19:27 UTC 2025
-Last updated: Tue Jan  7 10:08:20 UTC 2025
-Last updated: Tue Jan  7 12:34:03 UTC 2025
-Last updated: Wed Jan  8 00:58:51 UTC 2025
-Last updated: Wed Jan  8 02:17:56 UTC 2025
-Last updated: Wed Jan  8 10:08:31 UTC 2025
-Last updated: Wed Jan  8 12:34:00 UTC 2025
-Last updated: Thu Jan  9 00:58:29 UTC 2025
-Last updated: Thu Jan  9 02:49:48 UTC 2025
-Last updated: Thu Jan  9 10:07:50 UTC 2025
-Last updated: Thu Jan  9 12:33:52 UTC 2025
-Last updated: Fri Jan 10 01:00:24 UTC 2025
-Last updated: Fri Jan 10 02:20:45 UTC 2025
-Last updated: Fri Jan 10 10:08:03 UTC 2025
-Last updated: Fri Jan 10 12:33:55 UTC 2025
-Last updated: Sat Jan 11 00:59:08 UTC 2025
-Last updated: Sat Jan 11 02:17:37 UTC 2025
-Last updated: Sat Jan 11 10:06:56 UTC 2025
-Last updated: Sat Jan 11 12:30:59 UTC 2025
-Last updated: Sun Jan 12 01:04:31 UTC 2025
-Last updated: Sun Jan 12 02:25:31 UTC 2025
-Last updated: Sun Jan 12 10:06:57 UTC 2025
-Last updated: Sun Jan 12 12:30:45 UTC 2025
-Last updated: Mon Jan 13 01:02:01 UTC 2025
-Last updated: Mon Jan 13 02:22:53 UTC 2025
-Last updated: Mon Jan 13 10:08:46 UTC 2025
-Last updated: Mon Jan 13 12:35:04 UTC 2025
-Last updated: Tue Jan 14 00:56:05 UTC 2025
-Last updated: Tue Jan 14 02:12:49 UTC 2025
-Last updated: Tue Jan 14 10:07:42 UTC 2025
-Last updated: Tue Jan 14 12:32:26 UTC 2025
-Last updated: Wed Jan 15 00:57:33 UTC 2025
-Last updated: Wed Jan 15 02:14:51 UTC 2025
-Last updated: Wed Jan 15 10:07:48 UTC 2025
-Last updated: Wed Jan 15 12:32:33 UTC 2025
-Last updated: Thu Jan 16 00:56:51 UTC 2025
-Last updated: Thu Jan 16 02:13:50 UTC 2025
-Last updated: Thu Jan 16 10:07:42 UTC 2025
-Last updated: Thu Jan 16 12:32:15 UTC 2025
-Last updated: Fri Jan 17 00:56:33 UTC 2025
-Last updated: Fri Jan 17 02:13:27 UTC 2025
-Last updated: Fri Jan 17 10:07:27 UTC 2025
-Last updated: Fri Jan 17 12:31:58 UTC 2025
-Last updated: Sat Jan 18 00:55:14 UTC 2025
-Last updated: Sat Jan 18 02:10:48 UTC 2025
-Last updated: Sat Jan 18 10:03:09 UTC 2025
-Last updated: Sat Jan 18 12:29:04 UTC 2025
-Last updated: Sun Jan 19 01:01:22 UTC 2025
-Last updated: Sun Jan 19 02:19:36 UTC 2025
-Last updated: Sun Jan 19 10:04:43 UTC 2025
-Last updated: Sun Jan 19 12:29:05 UTC 2025
-Last updated: Mon Jan 20 00:58:07 UTC 2025
-Last updated: Mon Jan 20 02:16:18 UTC 2025
-Last updated: Mon Jan 20 10:08:05 UTC 2025
-Last updated: Mon Jan 20 12:33:10 UTC 2025
-Last updated: Tue Jan 21 00:56:45 UTC 2025
-Last updated: Tue Jan 21 02:14:33 UTC 2025
-Last updated: Tue Jan 21 10:07:46 UTC 2025
-Last updated: Tue Jan 21 12:33:02 UTC 2025
-Last updated: Wed Jan 22 00:58:25 UTC 2025
-Last updated: Wed Jan 22 02:16:55 UTC 2025
-Last updated: Wed Jan 22 10:04:56 UTC 2025
-Last updated: Wed Jan 22 12:32:56 UTC 2025
-Last updated: Thu Jan 23 00:57:12 UTC 2025
-Last updated: Thu Jan 23 02:14:35 UTC 2025
-Last updated: Thu Jan 23 10:08:16 UTC 2025
-Last updated: Thu Jan 23 12:33:05 UTC 2025
-Last updated: Fri Jan 24 00:57:22 UTC 2025
-Last updated: Fri Jan 24 02:15:00 UTC 2025
-Last updated: Fri Jan 24 10:08:06 UTC 2025
-Last updated: Fri Jan 24 12:32:02 UTC 2025
-Last updated: Sat Jan 25 00:53:38 UTC 2025
-Last updated: Sat Jan 25 02:10:13 UTC 2025
-Last updated: Sat Jan 25 10:06:29 UTC 2025
-Last updated: Sat Jan 25 12:28:57 UTC 2025
-Last updated: Sun Jan 26 00:58:59 UTC 2025
-Last updated: Sun Jan 26 02:17:28 UTC 2025
-Last updated: Sun Jan 26 10:03:59 UTC 2025
-Last updated: Sun Jan 26 12:28:57 UTC 2025
-Last updated: Mon Jan 27 00:58:20 UTC 2025
-Last updated: Mon Jan 27 02:16:15 UTC 2025
-Last updated: Mon Jan 27 10:08:18 UTC 2025
-Last updated: Mon Jan 27 12:33:14 UTC 2025
-Last updated: Tue Jan 28 00:57:10 UTC 2025
-Last updated: Tue Jan 28 02:14:22 UTC 2025
-Last updated: Tue Jan 28 10:07:49 UTC 2025
-Last updated: Tue Jan 28 12:32:26 UTC 2025
-Last updated: Wed Jan 29 00:57:10 UTC 2025
-Last updated: Wed Jan 29 02:13:41 UTC 2025
-Last updated: Wed Jan 29 10:07:48 UTC 2025
-Last updated: Wed Jan 29 12:32:25 UTC 2025
-Last updated: Thu Jan 30 00:56:22 UTC 2025
-Last updated: Thu Jan 30 02:13:03 UTC 2025
-Last updated: Thu Jan 30 10:07:48 UTC 2025
-Last updated: Thu Jan 30 12:32:19 UTC 2025
-Last updated: Fri Jan 31 00:57:24 UTC 2025
-Last updated: Fri Jan 31 02:14:40 UTC 2025
-Last updated: Fri Jan 31 10:07:38 UTC 2025
-Last updated: Fri Jan 31 12:32:09 UTC 2025
-Last updated: Sat Feb  1 01:00:35 UTC 2025
-Last updated: Sat Feb  1 02:18:11 UTC 2025
-Last updated: Sat Feb  1 10:07:05 UTC 2025
-Last updated: Sat Feb  1 12:29:11 UTC 2025
-Last updated: Sun Feb  2 01:00:14 UTC 2025
-Last updated: Sun Feb  2 02:17:21 UTC 2025
-Last updated: Sun Feb  2 10:06:53 UTC 2025
-Last updated: Sun Feb  2 12:28:33 UTC 2025
-Last updated: Mon Feb  3 00:58:19 UTC 2025
-Last updated: Mon Feb  3 02:15:28 UTC 2025
-Last updated: Mon Feb  3 10:07:54 UTC 2025
-Last updated: Mon Feb  3 12:32:49 UTC 2025
-Last updated: Tue Feb  4 00:57:26 UTC 2025
-Last updated: Tue Feb  4 02:14:47 UTC 2025
-Last updated: Tue Feb  4 10:08:10 UTC 2025
-Last updated: Tue Feb  4 12:33:12 UTC 2025
-Last updated: Wed Feb  5 00:58:08 UTC 2025
-Last updated: Wed Feb  5 02:16:09 UTC 2025
-Last updated: Wed Feb  5 10:07:50 UTC 2025
-Last updated: Wed Feb  5 12:33:11 UTC 2025
-Last updated: Thu Feb  6 00:58:09 UTC 2025
-Last updated: Thu Feb  6 02:16:27 UTC 2025
-Last updated: Thu Feb  6 10:07:51 UTC 2025
-Last updated: Thu Feb  6 12:33:41 UTC 2025
-Last updated: Fri Feb  7 00:58:29 UTC 2025
-Last updated: Fri Feb  7 02:17:11 UTC 2025
-Last updated: Fri Feb  7 10:07:53 UTC 2025
-Last updated: Fri Feb  7 12:32:38 UTC 2025
-Last updated: Sat Feb  8 00:56:34 UTC 2025
-Last updated: Sat Feb  8 02:13:03 UTC 2025
-Last updated: Sat Feb  8 10:04:42 UTC 2025
-Last updated: Sat Feb  8 12:29:43 UTC 2025
-Last updated: Sun Feb  9 01:01:11 UTC 2025
-Last updated: Sun Feb  9 02:19:16 UTC 2025
-Last updated: Sun Feb  9 10:06:53 UTC 2025
-Last updated: Sun Feb  9 12:29:21 UTC 2025
-Last updated: Mon Feb 10 00:59:14 UTC 2025
-Last updated: Mon Feb 10 02:17:42 UTC 2025
-Last updated: Mon Feb 10 10:08:20 UTC 2025
-Last updated: Mon Feb 10 12:33:35 UTC 2025
-Last updated: Tue Feb 11 00:58:04 UTC 2025
-Last updated: Tue Feb 11 02:17:52 UTC 2025
-Last updated: Tue Feb 11 10:08:23 UTC 2025
-Last updated: Tue Feb 11 12:33:33 UTC 2025
-Last updated: Wed Feb 12 00:58:19 UTC 2025
-Last updated: Wed Feb 12 02:16:30 UTC 2025
-Last updated: Wed Feb 12 10:07:56 UTC 2025
-Last updated: Wed Feb 12 12:33:14 UTC 2025
-Last updated: Thu Feb 13 00:58:32 UTC 2025
-Last updated: Thu Feb 13 02:17:16 UTC 2025
-Last updated: Thu Feb 13 10:08:07 UTC 2025
-Last updated: Thu Feb 13 12:33:38 UTC 2025
-Last updated: Fri Feb 14 00:58:23 UTC 2025
-Last updated: Fri Feb 14 02:16:49 UTC 2025
-Last updated: Fri Feb 14 10:07:44 UTC 2025
-Last updated: Fri Feb 14 12:32:47 UTC 2025
-Last updated: Sat Feb 15 00:57:40 UTC 2025
-Last updated: Sat Feb 15 02:16:17 UTC 2025
-Last updated: Sat Feb 15 10:06:41 UTC 2025
-Last updated: Sat Feb 15 12:29:51 UTC 2025
-Last updated: Sun Feb 16 01:03:09 UTC 2025
-Last updated: Sun Feb 16 02:22:17 UTC 2025
-Last updated: Sun Feb 16 10:06:39 UTC 2025
-Last updated: Sun Feb 16 12:32:25 UTC 2025
-Last updated: Mon Feb 17 01:00:48 UTC 2025
-Last updated: Mon Feb 17 02:20:28 UTC 2025
-Last updated: Mon Feb 17 10:08:26 UTC 2025
-Last updated: Mon Feb 17 12:34:26 UTC 2025
-Last updated: Tue Feb 18 00:58:13 UTC 2025
-Last updated: Tue Feb 18 02:16:19 UTC 2025
-Last updated: Tue Feb 18 10:08:03 UTC 2025
-Last updated: Tue Feb 18 12:32:38 UTC 2025
-Last updated: Wed Feb 19 00:58:36 UTC 2025
-Last updated: Wed Feb 19 02:17:38 UTC 2025
-Last updated: Wed Feb 19 10:08:05 UTC 2025
-Last updated: Wed Feb 19 12:31:18 UTC 2025
-Last updated: Thu Feb 20 00:58:51 UTC 2025
-Last updated: Thu Feb 20 02:17:56 UTC 2025
-Last updated: Thu Feb 20 10:08:04 UTC 2025
-Last updated: Thu Feb 20 12:34:14 UTC 2025
-Last updated: Fri Feb 21 00:59:05 UTC 2025
-Last updated: Fri Feb 21 02:18:12 UTC 2025
-Last updated: Fri Feb 21 10:08:01 UTC 2025
-Last updated: Fri Feb 21 12:33:34 UTC 2025
-Last updated: Sat Feb 22 00:57:07 UTC 2025
-Last updated: Sat Feb 22 02:14:34 UTC 2025
-Last updated: Sat Feb 22 10:06:50 UTC 2025
-Last updated: Sat Feb 22 12:29:46 UTC 2025
-Last updated: Sun Feb 23 01:03:16 UTC 2025
-Last updated: Sun Feb 23 02:22:32 UTC 2025
-Last updated: Sun Feb 23 10:06:41 UTC 2025
-Last updated: Sun Feb 23 12:30:28 UTC 2025
-Last updated: Mon Feb 24 01:00:49 UTC 2025
-Last updated: Mon Feb 24 02:22:04 UTC 2025
-Last updated: Mon Feb 24 10:08:58 UTC 2025
-Last updated: Mon Feb 24 12:34:59 UTC 2025
-Last updated: Tue Feb 25 00:59:59 UTC 2025
-Last updated: Tue Feb 25 02:20:24 UTC 2025
-Last updated: Tue Feb 25 10:08:14 UTC 2025
-Last updated: Tue Feb 25 12:34:36 UTC 2025
-Last updated: Wed Feb 26 00:59:55 UTC 2025
-Last updated: Wed Feb 26 02:20:04 UTC 2025
-Last updated: Wed Feb 26 10:08:40 UTC 2025
-Last updated: Wed Feb 26 12:34:27 UTC 2025
-Last updated: Thu Feb 27 00:59:57 UTC 2025
-Last updated: Thu Feb 27 02:20:54 UTC 2025
-Last updated: Thu Feb 27 10:08:26 UTC 2025
-Last updated: Thu Feb 27 12:34:24 UTC 2025
-Last updated: Fri Feb 28 01:00:18 UTC 2025
-Last updated: Fri Feb 28 02:21:32 UTC 2025
-Last updated: Fri Feb 28 10:08:10 UTC 2025
-Last updated: Fri Feb 28 12:33:51 UTC 2025
-Last updated: Sat Mar  1 01:04:35 UTC 2025
-Last updated: Sat Mar  1 02:25:25 UTC 2025
-Last updated: Sat Mar  1 10:07:02 UTC 2025
-Last updated: Sat Mar  1 12:31:16 UTC 2025
-Last updated: Sun Mar  2 01:03:47 UTC 2025
-Last updated: Sun Mar  2 02:24:28 UTC 2025
-Last updated: Sun Mar  2 10:06:55 UTC 2025
-Last updated: Sun Mar  2 12:30:17 UTC 2025
-Last updated: Mon Mar  3 01:01:58 UTC 2025
-Last updated: Mon Mar  3 02:23:03 UTC 2025
-Last updated: Mon Mar  3 10:08:53 UTC 2025
-Last updated: Mon Mar  3 12:35:04 UTC 2025
-Last updated: Tue Mar  4 01:00:59 UTC 2025
-Last updated: Tue Mar  4 02:22:25 UTC 2025
-Last updated: Tue Mar  4 10:08:23 UTC 2025
-Last updated: Tue Mar  4 12:34:59 UTC 2025
-Last updated: Wed Mar  5 01:00:59 UTC 2025
-Last updated: Wed Mar  5 02:22:03 UTC 2025
-Last updated: Wed Mar  5 10:08:21 UTC 2025
-Last updated: Wed Mar  5 12:34:51 UTC 2025
-Last updated: Thu Mar  6 01:01:00 UTC 2025
-Last updated: Thu Mar  6 02:22:23 UTC 2025
-Last updated: Thu Mar  6 10:08:18 UTC 2025
-Last updated: Thu Mar  6 12:35:06 UTC 2025
-Last updated: Fri Mar  7 01:01:42 UTC 2025
-Last updated: Fri Mar  7 02:23:16 UTC 2025
-Last updated: Fri Mar  7 10:08:12 UTC 2025
-Last updated: Fri Mar  7 12:34:00 UTC 2025
-Last updated: Sat Mar  8 00:48:17 UTC 2025
-Last updated: Sat Mar  8 01:58:38 UTC 2025
-Last updated: Sat Mar  8 10:00:49 UTC 2025
-Last updated: Sat Mar  8 12:25:19 UTC 2025
-Last updated: Sun Mar  9 00:53:17 UTC 2025
-Last updated: Sun Mar  9 02:03:26 UTC 2025
-Last updated: Sun Mar  9 10:01:47 UTC 2025
-Last updated: Sun Mar  9 12:25:12 UTC 2025
-Last updated: Mon Mar 10 00:52:07 UTC 2025
-Last updated: Mon Mar 10 02:04:41 UTC 2025
-Last updated: Mon Mar 10 10:07:33 UTC 2025
-Last updated: Mon Mar 10 12:35:50 UTC 2025
-Last updated: Tue Mar 11 01:01:41 UTC 2025
-Last updated: Tue Mar 11 02:23:16 UTC 2025
-Last updated: Tue Mar 11 10:08:24 UTC 2025
-Last updated: Tue Mar 11 12:35:38 UTC 2025
-Last updated: Wed Mar 12 01:00:50 UTC 2025
-Last updated: Wed Mar 12 02:22:24 UTC 2025
-Last updated: Wed Mar 12 10:08:10 UTC 2025
-Last updated: Wed Mar 12 12:35:17 UTC 2025
-Last updated: Thu Mar 13 01:01:41 UTC 2025
-Last updated: Thu Mar 13 02:24:08 UTC 2025
-Last updated: Thu Mar 13 10:08:48 UTC 2025
-Last updated: Thu Mar 13 12:35:39 UTC 2025
-Last updated: Fri Mar 14 01:01:02 UTC 2025
-Last updated: Fri Mar 14 02:22:20 UTC 2025
-Last updated: Fri Mar 14 10:07:56 UTC 2025
-Last updated: Fri Mar 14 12:33:56 UTC 2025
-Last updated: Sat Mar 15 01:00:20 UTC 2025
-Last updated: Sat Mar 15 02:20:30 UTC 2025
-Last updated: Sat Mar 15 10:07:01 UTC 2025
-Last updated: Sat Mar 15 12:31:26 UTC 2025
-Last updated: Sun Mar 16 01:06:00 UTC 2025
-Last updated: Sun Mar 16 02:34:22 UTC 2025
-Last updated: Sun Mar 16 10:07:01 UTC 2025
-Last updated: Sun Mar 16 12:31:19 UTC 2025
-Last updated: Mon Mar 17 01:03:33 UTC 2025
-Last updated: Mon Mar 17 02:26:18 UTC 2025
-Last updated: Mon Mar 17 10:08:54 UTC 2025
-Last updated: Mon Mar 17 12:36:34 UTC 2025
-Last updated: Tue Mar 18 01:01:46 UTC 2025
-Last updated: Tue Mar 18 02:25:22 UTC 2025
-Last updated: Tue Mar 18 10:08:28 UTC 2025
-Last updated: Tue Mar 18 12:35:57 UTC 2025
-Last updated: Wed Mar 19 01:02:27 UTC 2025
-Last updated: Wed Mar 19 02:24:47 UTC 2025
-Last updated: Wed Mar 19 10:09:21 UTC 2025
-Last updated: Wed Mar 19 12:35:45 UTC 2025
-Last updated: Thu Mar 20 01:01:14 UTC 2025
-Last updated: Thu Mar 20 02:23:23 UTC 2025
-Last updated: Thu Mar 20 10:08:50 UTC 2025
-Last updated: Thu Mar 20 12:34:13 UTC 2025
-Last updated: Fri Mar 21 01:02:37 UTC 2025
-Last updated: Fri Mar 21 02:25:01 UTC 2025
-Last updated: Fri Mar 21 10:08:20 UTC 2025
-Last updated: Fri Mar 21 12:34:52 UTC 2025
-Last updated: Sat Mar 22 01:00:43 UTC 2025
-Last updated: Sat Mar 22 02:22:04 UTC 2025
-Last updated: Sat Mar 22 10:06:53 UTC 2025
-Last updated: Sat Mar 22 12:31:40 UTC 2025
-Last updated: Sun Mar 23 01:06:29 UTC 2025
-Last updated: Sun Mar 23 02:37:20 UTC 2025
-Last updated: Sun Mar 23 10:07:08 UTC 2025
-Last updated: Sun Mar 23 12:32:10 UTC 2025
-Last updated: Mon Mar 24 01:04:18 UTC 2025
-Last updated: Mon Mar 24 02:36:57 UTC 2025
-Last updated: Mon Mar 24 10:09:05 UTC 2025
-Last updated: Mon Mar 24 12:36:56 UTC 2025
-Last updated: Tue Mar 25 01:02:51 UTC 2025
-Last updated: Tue Mar 25 02:26:11 UTC 2025
-Last updated: Tue Mar 25 10:08:44 UTC 2025
-Last updated: Tue Mar 25 12:35:59 UTC 2025
-Last updated: Wed Mar 26 01:02:45 UTC 2025
-Last updated: Wed Mar 26 02:25:18 UTC 2025
-Last updated: Wed Mar 26 10:08:48 UTC 2025
-Last updated: Wed Mar 26 12:36:00 UTC 2025
-Last updated: Thu Mar 27 01:02:23 UTC 2025
-Last updated: Thu Mar 27 02:25:19 UTC 2025
-Last updated: Thu Mar 27 10:08:41 UTC 2025
-Last updated: Thu Mar 27 12:36:24 UTC 2025
-Last updated: Fri Mar 28 01:02:12 UTC 2025
-Last updated: Fri Mar 28 02:26:56 UTC 2025
-Last updated: Fri Mar 28 10:08:22 UTC 2025
-Last updated: Fri Mar 28 12:35:09 UTC 2025
-Last updated: Sat Mar 29 01:01:49 UTC 2025
-Last updated: Sat Mar 29 02:23:48 UTC 2025
-Last updated: Sat Mar 29 10:06:59 UTC 2025
-Last updated: Sat Mar 29 12:32:18 UTC 2025
-Last updated: Sun Mar 30 01:07:54 UTC 2025
-Last updated: Sun Mar 30 02:39:45 UTC 2025
-Last updated: Sun Mar 30 10:07:08 UTC 2025
-Last updated: Sun Mar 30 12:32:55 UTC 2025
-Last updated: Mon Mar 31 01:06:07 UTC 2025
-Last updated: Mon Mar 31 02:39:23 UTC 2025
-Last updated: Mon Mar 31 10:08:52 UTC 2025
-Last updated: Mon Mar 31 12:36:37 UTC 2025
-Last updated: Tue Apr  1 01:10:46 UTC 2025
-Last updated: Tue Apr  1 02:46:02 UTC 2025
-Last updated: Tue Apr  1 10:09:10 UTC 2025
-Last updated: Tue Apr  1 12:37:43 UTC 2025
-Last updated: Wed Apr  2 01:03:44 UTC 2025
-Last updated: Wed Apr  2 02:34:42 UTC 2025
-Last updated: Wed Apr  2 10:08:59 UTC 2025
-Last updated: Wed Apr  2 12:37:13 UTC 2025
-Last updated: Thu Apr  3 01:03:12 UTC 2025
-Last updated: Thu Apr  3 02:27:03 UTC 2025
-Last updated: Thu Apr  3 10:08:39 UTC 2025
-Last updated: Thu Apr  3 12:36:24 UTC 2025
-Last updated: Fri Apr  4 01:02:36 UTC 2025
-Last updated: Fri Apr  4 02:26:22 UTC 2025
-Last updated: Fri Apr  4 10:08:49 UTC 2025
-Last updated: Fri Apr  4 12:35:46 UTC 2025
-Last updated: Sat Apr  5 01:01:58 UTC 2025
-Last updated: Sat Apr  5 02:24:25 UTC 2025
-Last updated: Sat Apr  5 10:06:48 UTC 2025
-Last updated: Sat Apr  5 12:32:21 UTC 2025
-Last updated: Sun Apr  6 01:07:12 UTC 2025
-Last updated: Sun Apr  6 02:38:09 UTC 2025
-Last updated: Sun Apr  6 10:08:12 UTC 2025
-Last updated: Sun Apr  6 12:32:25 UTC 2025
-Last updated: Mon Apr  7 01:05:09 UTC 2025
-Last updated: Mon Apr  7 02:37:57 UTC 2025
-Last updated: Mon Apr  7 10:10:01 UTC 2025
-Last updated: Mon Apr  7 12:37:24 UTC 2025
-Last updated: Tue Apr  8 01:03:18 UTC 2025
-Last updated: Tue Apr  8 02:34:11 UTC 2025
-Last updated: Tue Apr  8 10:08:54 UTC 2025
-Last updated: Tue Apr  8 12:37:14 UTC 2025
-Last updated: Wed Apr  9 01:03:25 UTC 2025
-Last updated: Wed Apr  9 02:35:36 UTC 2025
-Last updated: Wed Apr  9 10:10:41 UTC 2025
-Last updated: Wed Apr  9 12:37:19 UTC 2025
-Last updated: Thu Apr 10 01:03:28 UTC 2025
-Last updated: Thu Apr 10 02:34:18 UTC 2025
-Last updated: Thu Apr 10 10:09:22 UTC 2025
-Last updated: Thu Apr 10 12:37:17 UTC 2025
-Last updated: Fri Apr 11 01:03:52 UTC 2025
-Last updated: Fri Apr 11 02:35:23 UTC 2025
-Last updated: Fri Apr 11 10:08:40 UTC 2025
-Last updated: Fri Apr 11 12:36:21 UTC 2025
-Last updated: Sat Apr 12 01:02:47 UTC 2025
-Last updated: Sat Apr 12 02:25:20 UTC 2025
-Last updated: Sat Apr 12 10:07:08 UTC 2025
-Last updated: Sat Apr 12 12:32:26 UTC 2025
-Last updated: Sun Apr 13 02:32:23 UTC 2025
-Last updated: Sun Apr 13 03:44:06 UTC 2025
-Last updated: Sun Apr 13 10:07:40 UTC 2025
-Last updated: Sun Apr 13 12:33:12 UTC 2025
-Last updated: Mon Apr 14 01:06:35 UTC 2025
-Last updated: Mon Apr 14 02:40:13 UTC 2025
-Last updated: Mon Apr 14 10:09:46 UTC 2025
-Last updated: Mon Apr 14 12:37:20 UTC 2025
-Last updated: Tue Apr 15 01:05:29 UTC 2025
-Last updated: Tue Apr 15 02:38:40 UTC 2025
-Last updated: Tue Apr 15 10:08:55 UTC 2025
-Last updated: Tue Apr 15 12:36:48 UTC 2025
-Last updated: Wed Apr 16 01:05:14 UTC 2025
-Last updated: Wed Apr 16 02:38:12 UTC 2025
-Last updated: Wed Apr 16 10:08:35 UTC 2025
-Last updated: Wed Apr 16 12:37:15 UTC 2025
-Last updated: Thu Apr 17 01:04:25 UTC 2025
-Last updated: Thu Apr 17 02:36:43 UTC 2025
-Last updated: Thu Apr 17 10:09:03 UTC 2025
-Last updated: Thu Apr 17 12:36:32 UTC 2025
-Last updated: Fri Apr 18 01:03:42 UTC 2025
-Last updated: Fri Apr 18 02:26:17 UTC 2025
-Last updated: Fri Apr 18 10:08:22 UTC 2025
-Last updated: Fri Apr 18 12:35:19 UTC 2025
-Last updated: Sat Apr 19 01:01:36 UTC 2025
-Last updated: Sat Apr 19 02:23:39 UTC 2025
-Last updated: Sat Apr 19 10:07:25 UTC 2025
-Last updated: Sat Apr 19 12:32:36 UTC 2025
-Last updated: Sun Apr 20 01:09:09 UTC 2025
-Last updated: Sun Apr 20 02:41:33 UTC 2025
-Last updated: Sun Apr 20 10:07:33 UTC 2025
-Last updated: Sun Apr 20 12:33:08 UTC 2025
-Last updated: Mon Apr 21 01:07:55 UTC 2025
-Last updated: Mon Apr 21 02:42:48 UTC 2025
-Last updated: Mon Apr 21 10:09:11 UTC 2025
-Last updated: Mon Apr 21 12:36:12 UTC 2025
-Last updated: Tue Apr 22 01:04:39 UTC 2025
-Last updated: Tue Apr 22 02:37:01 UTC 2025
-Last updated: Tue Apr 22 10:08:37 UTC 2025
-Last updated: Tue Apr 22 12:36:49 UTC 2025
-Last updated: Wed Apr 23 01:05:13 UTC 2025
-Last updated: Wed Apr 23 02:37:46 UTC 2025
-Last updated: Wed Apr 23 10:09:15 UTC 2025
-Last updated: Wed Apr 23 12:37:39 UTC 2025
-Last updated: Thu Apr 24 01:05:17 UTC 2025
-Last updated: Thu Apr 24 02:39:12 UTC 2025
-Last updated: Thu Apr 24 10:09:11 UTC 2025
-Last updated: Thu Apr 24 12:38:23 UTC 2025
-Last updated: Fri Apr 25 01:05:16 UTC 2025
-Last updated: Fri Apr 25 02:39:13 UTC 2025
-Last updated: Fri Apr 25 10:09:02 UTC 2025
-Last updated: Fri Apr 25 12:37:06 UTC 2025
-Last updated: Sat Apr 26 01:03:04 UTC 2025
-Last updated: Sat Apr 26 02:25:59 UTC 2025
-Last updated: Sat Apr 26 10:07:19 UTC 2025
-Last updated: Sat Apr 26 12:33:10 UTC 2025
-Last updated: Sun Apr 27 01:09:21 UTC 2025
-Last updated: Sun Apr 27 02:42:11 UTC 2025
-Last updated: Sun Apr 27 10:07:25 UTC 2025
-Last updated: Sun Apr 27 12:33:18 UTC 2025
-Last updated: Mon Apr 28 01:07:16 UTC 2025
-Last updated: Mon Apr 28 02:43:08 UTC 2025
-Last updated: Mon Apr 28 11:00:53 UTC 2025
-Last updated: Mon Apr 28 12:39:38 UTC 2025
-Last updated: Tue Apr 29 01:05:18 UTC 2025
-Last updated: Tue Apr 29 02:39:26 UTC 2025
-Last updated: Tue Apr 29 10:09:21 UTC 2025
-Last updated: Tue Apr 29 12:39:34 UTC 2025
-Last updated: Wed Apr 30 01:05:41 UTC 2025
-Last updated: Wed Apr 30 02:39:08 UTC 2025
-Last updated: Wed Apr 30 10:08:59 UTC 2025
-Last updated: Wed Apr 30 12:36:49 UTC 2025
-Last updated: Thu May  1 01:11:50 UTC 2025
-Last updated: Thu May  1 02:48:49 UTC 2025
-Last updated: Thu May  1 10:08:41 UTC 2025
-Last updated: Thu May  1 12:36:18 UTC 2025
-Last updated: Fri May  2 01:05:59 UTC 2025
-Last updated: Fri May  2 02:40:12 UTC 2025
-Last updated: Fri May  2 10:08:52 UTC 2025
-Last updated: Fri May  2 12:36:40 UTC 2025
-Last updated: Sat May  3 01:04:19 UTC 2025
-Last updated: Sat May  3 02:36:13 UTC 2025
-Last updated: Sat May  3 10:07:36 UTC 2025
-Last updated: Sat May  3 12:34:07 UTC 2025
-Last updated: Sun May  4 01:12:34 UTC 2025
-Last updated: Sun May  4 02:48:38 UTC 2025
-Last updated: Sun May  4 10:07:40 UTC 2025
-Last updated: Sun May  4 12:34:43 UTC 2025
-Last updated: Mon May  5 01:09:09 UTC 2025
-Last updated: Mon May  5 02:45:10 UTC 2025
-Last updated: Mon May  5 10:09:37 UTC 2025
-Last updated: Mon May  5 12:37:49 UTC 2025
-Last updated: Tue May  6 01:06:19 UTC 2025
-Last updated: Tue May  6 02:41:16 UTC 2025
-Last updated: Tue May  6 10:09:06 UTC 2025
-Last updated: Tue May  6 12:39:41 UTC 2025
-Last updated: Wed May  7 01:06:40 UTC 2025
-Last updated: Wed May  7 02:42:49 UTC 2025
-Last updated: Wed May  7 10:09:10 UTC 2025
-Last updated: Wed May  7 12:39:48 UTC 2025
-Last updated: Thu May  8 01:07:16 UTC 2025
-Last updated: Thu May  8 02:43:24 UTC 2025
-Last updated: Thu May  8 10:09:27 UTC 2025
-Last updated: Thu May  8 12:37:57 UTC 2025
-Last updated: Fri May  9 01:06:38 UTC 2025
-Last updated: Fri May  9 02:42:30 UTC 2025
-Last updated: Fri May  9 10:08:51 UTC 2025
-Last updated: Fri May  9 12:37:07 UTC 2025
-Last updated: Sat May 10 01:04:18 UTC 2025
-Last updated: Sat May 10 02:36:21 UTC 2025
-Last updated: Sat May 10 10:07:37 UTC 2025
-Last updated: Sat May 10 12:33:56 UTC 2025
-Last updated: Sun May 11 01:11:05 UTC 2025
-Last updated: Sun May 11 02:46:46 UTC 2025
-Last updated: Sun May 11 10:07:31 UTC 2025
-Last updated: Sun May 11 12:34:14 UTC 2025
-Last updated: Mon May 12 01:09:40 UTC 2025
-Last updated: Mon May 12 02:46:21 UTC 2025
-Last updated: Mon May 12 10:09:51 UTC 2025
-Last updated: Mon May 12 12:39:40 UTC 2025
-Last updated: Tue May 13 01:07:57 UTC 2025
-Last updated: Tue May 13 02:44:15 UTC 2025
-Last updated: Tue May 13 10:09:17 UTC 2025
-Last updated: Tue May 13 12:39:48 UTC 2025
-Last updated: Wed May 14 01:06:44 UTC 2025
-Last updated: Wed May 14 02:42:57 UTC 2025
-Last updated: Wed May 14 10:09:12 UTC 2025
-Last updated: Wed May 14 12:38:14 UTC 2025
-Last updated: Thu May 15 01:04:33 UTC 2025
-Last updated: Thu May 15 02:41:51 UTC 2025
-Last updated: Thu May 15 10:09:15 UTC 2025
-Last updated: Thu May 15 12:38:41 UTC 2025
-Last updated: Fri May 16 01:07:53 UTC 2025
-Last updated: Fri May 16 02:44:24 UTC 2025
-Last updated: Fri May 16 10:08:58 UTC 2025
-Last updated: Fri May 16 12:38:31 UTC 2025
-Last updated: Sat May 17 01:06:22 UTC 2025
-Last updated: Sat May 17 02:39:14 UTC 2025
-Last updated: Sat May 17 10:07:43 UTC 2025
-Last updated: Sat May 17 12:34:30 UTC 2025
-Last updated: Sun May 18 01:12:08 UTC 2025
-Last updated: Sun May 18 02:49:22 UTC 2025
-Last updated: Sun May 18 10:07:43 UTC 2025
-Last updated: Sun May 18 12:34:53 UTC 2025
-Last updated: Mon May 19 01:10:44 UTC 2025
-Last updated: Mon May 19 02:49:34 UTC 2025
-Last updated: Mon May 19 10:09:57 UTC 2025
-Last updated: Mon May 19 12:40:14 UTC 2025
-Last updated: Tue May 20 01:08:44 UTC 2025
-Last updated: Tue May 20 02:44:43 UTC 2025
-Last updated: Tue May 20 10:09:17 UTC 2025
-Last updated: Tue May 20 12:40:04 UTC 2025
-Last updated: Wed May 21 01:08:08 UTC 2025
-Last updated: Wed May 21 02:44:33 UTC 2025
-Last updated: Wed May 21 10:09:24 UTC 2025
-Last updated: Wed May 21 12:39:07 UTC 2025
-Last updated: Thu May 22 01:07:40 UTC 2025
-Last updated: Thu May 22 02:43:59 UTC 2025
-Last updated: Thu May 22 10:09:21 UTC 2025
-Last updated: Thu May 22 12:39:33 UTC 2025
-Last updated: Fri May 23 01:07:26 UTC 2025
-Last updated: Fri May 23 02:43:53 UTC 2025
-Last updated: Fri May 23 10:09:08 UTC 2025
-Last updated: Fri May 23 12:37:54 UTC 2025
-Last updated: Sat May 24 01:05:00 UTC 2025
-Last updated: Sat May 24 02:38:13 UTC 2025
-Last updated: Sat May 24 10:07:33 UTC 2025
-Last updated: Sat May 24 12:34:40 UTC 2025
-Last updated: Sun May 25 01:13:48 UTC 2025
-Last updated: Sun May 25 02:51:38 UTC 2025
-Last updated: Sun May 25 10:07:25 UTC 2025
-Last updated: Sun May 25 12:35:00 UTC 2025
-Last updated: Mon May 26 01:09:39 UTC 2025
-Last updated: Mon May 26 02:48:49 UTC 2025
-Last updated: Mon May 26 10:13:57 UTC 2025
-Last updated: Mon May 26 12:37:45 UTC 2025
-Last updated: Tue May 27 01:06:58 UTC 2025
-Last updated: Tue May 27 02:43:31 UTC 2025
-Last updated: Tue May 27 10:09:29 UTC 2025
-Last updated: Tue May 27 12:40:14 UTC 2025
-Last updated: Wed May 28 01:08:30 UTC 2025
-Last updated: Wed May 28 02:45:23 UTC 2025
-Last updated: Wed May 28 10:09:47 UTC 2025
-Last updated: Wed May 28 12:39:38 UTC 2025
-Last updated: Thu May 29 01:08:15 UTC 2025
-Last updated: Thu May 29 02:45:18 UTC 2025
-Last updated: Thu May 29 10:09:24 UTC 2025
-Last updated: Thu May 29 12:38:47 UTC 2025
-Last updated: Fri May 30 01:05:40 UTC 2025
-Last updated: Fri May 30 02:43:40 UTC 2025
-Last updated: Fri May 30 10:08:58 UTC 2025
-Last updated: Fri May 30 12:38:28 UTC 2025
-Last updated: Sat May 31 01:06:33 UTC 2025
-Last updated: Sat May 31 02:41:13 UTC 2025
-Last updated: Sat May 31 10:07:48 UTC 2025
-Last updated: Sat May 31 12:35:29 UTC 2025
-Last updated: Sun Jun  1 01:20:57 UTC 2025
-Last updated: Sun Jun  1 03:03:56 UTC 2025
-Last updated: Sun Jun  1 10:08:34 UTC 2025
-Last updated: Sun Jun  1 12:36:11 UTC 2025
-Last updated: Mon Jun  2 01:11:18 UTC 2025
-Last updated: Mon Jun  2 02:51:57 UTC 2025
+# Variable Selection and Transformation in Modeling
+## 1. Introduction to Variable Selection
+- **Definition**: Variable selection involves choosing the set of features (variables) to include in a
+model.
+- **Importance**: Proper variable selection ensures that the model is efficient, interpretable, and
+generalizable.
+## 2. Variable Transformation
+- **Purpose**: Variables often need to be transformed before they can be included in models.
+- **Types of Transformations**:
+ - **Log Transformation**: Converts data using the logarithm function to handle skewed data.
+ - **Polynomial Transformation**: Creates polynomial features to capture non-linear relationships.
+ - **Encoding**: Converts non-numeric features (e.g., categorical or ordinal) into numeric features.
+ - **Scaling**: Adjusts the scale of numeric data so that they are on a comparable scale.
+### 2.1 Encoding
+- **Definition**: Encoding is the process of transforming non-numeric features into numeric features.
+- **Types of Data**:
+ - **Nominal Data**: Categorical variables with no inherent order (e.g., colors: red, blue, green).
+ - **Ordinal Data**: Categorical variables with a built-in order (e.g., temperature: cold, warm, hot).
+#### 2.1.1 Common Encoding Methods
+- **Binary Encoding**:
+ - **Definition**: Converts variables to binary values (0 or 1).
+ - **Use Case**: Suitable for variables with only two possible values (e.g., male/female, married/not
+married).
+ - **Example**:
+ - Are they married? True (1) or False (0).
+ - Are they female? True (1) or False (0).
+- **One-Hot Encoding**:
+ - **Definition**: Converts variables that may take on multiple values into multiple binary columns,
+one for each category.
+ - **Process**:
+ - Original column (e.g., color: red, blue, green) is split into multiple columns (red, blue, green).
+ - Each new column is marked as 1 if the original value matches the column name; otherwise, it is
+marked as 0.
+ - **Example**:
+ - Original Column: Color = [red, blue, green]
+ - Transformed Columns:
+ - Red = [1, 0, 0]
+ - Blue = [0, 1, 0]
+ - Green = [0, 0, 1]
+- **Ordinal Encoding**:
+ - **Definition**: Converts ordered categories into numerical values based on their order.
+ - **Process**:
+ - Assigns integer values to categories (e.g., low=1, medium=2, high=3).
+ - **Considerations**:
+ - The assigned numerical values imply a specific distance between categories (e.g., low to
+medium is the same as medium to high), which may not exist in reality.
+ - **Example**:
+ - Original Column: Temperature = [low, medium, high]
+ - Transformed Column: Temperature = [1, 2, 3]
+### 2.2 Scaling
+- **Definition**: Scaling adjusts the scale of numeric data so that they are on a comparable scale.
+- **Importance**: Ensures that variables with different scales do not disproportionately influence the
+model.
+- **Methods**:
+ - **Standardization**: Transforms data to have a mean of 0 and a standard deviation of 1.
+ - **Normalization**: Scales data to a fixed range, typically [0, 1].
+## 3. Summary
+- **Variable Selection**: Choosing the right set of features is crucial for model performance.
+- **Variable Transformation**: Includes encoding (binary, one-hot, ordinal) and scaling to prepare
+data for modeling.
+- **Encoding Methods**:
+ - **Binary Encoding**: For two-category variables.
+ - **One-Hot Encoding**: For multi-category variables.
+ - **Ordinal Encoding**: For ordered categories.
+- **Scaling**: Ensures numeric data are on a comparable scale.
+## 4. Practical Considerations
+- **Choosing the Right Encoding Method**:
+ - Use binary encoding for binary categorical variables.
+ - Use one-hot encoding for nominal data with multiple categories.
+ - Use ordinal encoding for ordinal data, but be cautious of implied distances between categories.
+- **Scaling**:
+ - Always scale numeric data to ensure consistency across features.
+## 5. Visual Representation of Encoding Methods
+### 5.1 Binary Encoding
+```
+Original Column: Married
+[True, False, True]
+Transformed Column: Married
+[1, 0, 1]
+```
+### 5.2 One-Hot Encoding
+```
+Original Column: Color
+[red, blue, green]
+Transformed Columns:
+Red: [1, 0, 0]
+Blue: [0, 1, 0]
+Green: [0, 0, 1]
+```
+### 5.3 Ordinal Encoding
+```
+Original Column: Temperature
+[low, medium, high]
+Transformed Column: Temperature
+[1, 2, 3]
+```
+---
+These detailed notes provide a comprehensive understanding of variable selection and
+transformation, ensuring that all key concepts, methods, and considerations are covered
