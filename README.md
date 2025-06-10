@@ -56,7 +56,7 @@ Categorical Data
  ↓
  No → Binary Encoding
 ```
-### Diagram 2: Scaling Numeric Data
+### Diagram 2: Scaling Numeric Data Value
 ```plaintext
 Numeric Data
  ↓
