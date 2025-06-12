@@ -1,7 +1,7 @@
 Generated Notes
 # Variable Selection and Transformation in Machine Learning
 ## Overview
-Variable selection involves choosing the appropriate set of features (variables) ---
+Variable selection involves choosing the appropriate set of features (variables) 
 ## Key Concepts
 ### 1. **Variable Transformation**
  - **Purpose**: Prepare raw data for modeling by converting it into a suitable  - **Types of Transformations**:
