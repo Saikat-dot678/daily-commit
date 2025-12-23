@@ -1,5 +1,7 @@
 # SAIKAT KHAN
-**Computer Science & Engineering Student | Robotics Enthusiast** **LinkedIn:** [linkedin.com/in/saikat-k-612186324](https://www.linkedin.com/in/saikat-k-612186324) | **Github:** [github.com/Saikat-dot678](https://github.com/Saikat-dot678)  
+**Computer Science & Engineering Student | Robotics Enthusiast** 
+**LinkedIn:** [linkedin.com/in/saikat-k-612186324](https://www.linkedin.com/in/saikat-k-612186324) | 
+**Github:** [github.com/Saikat-dot678](https://github.com/Saikat-dot678)  
 **Email:** saikatkhan2005saikat@gmail.com | **Phone:** +91 9907813521
 
 ---
